@@ -1,0 +1,23 @@
+body { 
+    background-color: rgb(231, 231, 231);
+    font-size: 100%;
+    position:relative;
+}
+h1   { 
+    font-family: "Courier New", monospace;
+    color: rgb(0, 0, 0); 
+}
+p    {
+    /*margin: 50px;*/
+    /*padding: 2px;*/
+    font-family: "Courier New", monospace;
+    font-weight: bold;
+    font-size: 1.5vw;
+    color: rgb(0, 0, 0);
+}
+div {
+    width:auto;
+    height:auto;
+    margin:auto;
+    text-align:center;
+}
